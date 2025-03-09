@@ -81,7 +81,7 @@ ul {
     color: #fff;
 }
 
-.order {
+.order-button {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -91,8 +91,8 @@ ul {
     background-color: #4d5ae5
 }
 
-.order:hover,
-.order:focus {
+.order-button:hover,
+.order-button:focus {
     background-color: #404bbf
 }
 
